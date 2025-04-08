@@ -19,14 +19,14 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "wanggoNya Story" # 상단 헤더에 보이는 블로그 명
+title: "secudaimrnd github blog" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
-name: "wanggoNya" # 블로그 닉네임 설정
-description: "C언어 개발자 왕고냐의 기술 블로그 | Computer Science & Security, Linux, Cloud, DevOps에 관심 있음." # 블로그 설명
-url: "https://wanggonya.github.io/" # 블로그 URL
+name: "secudaimrnd" # 블로그 닉네임 설정
+description: "secudaim rnd github 블로그" # 블로그 설명
+url: "https://secudaimrnd.github.io/" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "wanggoNya/wanggoNya.github.io" # GitHub Repo 이름
+repository: "secudaimrnd/secudaimrnd.github.io" # GitHub Repo 이름
 teaser: #
 
 logo: "assets/images/profileLogo.png" # 블로그명 앞에 로고 추가하고 싶을 경우 사용
@@ -98,7 +98,7 @@ analytics:
 
 # Site Author
 author:
-  name: "wanggoNya" # 블로그 닉네임
+  name: "secudaimrnd" # 블로그 닉네임
   avatar: "/assets/images/profile.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
   location: "Seoul, Korea"
@@ -119,7 +119,7 @@ author:
 #       # url: "https://facebook.com/"
      - label: "GitHub"
        icon: "fab fa-fw fa-github"
-       url: "https://github.com/wanggoNya"
+       url: "https://github.com/secudaimrnd"
      - label: "Instagram"
        icon: "fab fa-fw fa-instagram"
        url: "https://www.instagram.com/human_logger"
@@ -135,7 +135,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/wanggoNya"
+      url: "https://github.com/secudaimrnd"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
